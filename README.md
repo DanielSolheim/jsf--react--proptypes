@@ -23,8 +23,8 @@ Once cloned on your machine:
 3. Below the component you will see the `propTypes` property being set that specifies the data type that each prop must be.
 4. Also notice that `PropTypes` is imported at the top of the file.
 5. In `App.js` you will see that the component is imported and used.
-6. Notie how string props are passed into the compoent using `""` and NON-string props are passed in using `{}`.  Make sure you are correctly passing in non-string components using `{}`.
-7. You can uncomment the non-working version of the exampe component to see what errors you will see output into the browser console.
+6. Notice how string props are passed into the compoent using `""` and NON-string props are passed in using `{}`.  Make sure you are correctly passing in non-string components using `{}`.
+7. You can uncomment the non-working version of the example component to see what errors you will see output into the browser console.
 
 ### Adding propTypes to each component
 
